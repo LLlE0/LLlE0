@@ -1,7 +1,5 @@
 p.blocktext {
-    margin-left: auto;
-    margin-right: auto;
-    width: 6em
+    justify-content: center;
 }
 <h1 align="center">About me:</h1>
 <h3 align="center">Greetings! My name is Sheo. I am a software engineering student from Russia.</h3>
