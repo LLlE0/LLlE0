@@ -5,7 +5,7 @@
     <img src="https://logojinni.com/image/logos/c--4.svg" width="50" height="50">
     <img src="https://animeshka.org/uploads/posts/2023-01/thumbs/1674914165_animeshka-org-p-gopher-pictures-pinterest-14.png" width="50" height="50">
 </div>
-<h4 align="">For now, I am the beginning fullstack developer. I have no projects at the moment, but I am thinking of doing some. Currently learning GoLang and Flutter. If you have any questions or offers, text me:</h4>
+<h4 align="">For now, I am the beginning fullstack developer and product manager. I have no projects at the moment, but I am thinking of doing some. Currently learning GoLang and Flutter. If you have any questions or offers, text me:</h4>
 <div align="center">
   <a href="https://vk.com/llieo">
     <img src="https://img.shields.io/badge/VK-blueviolet?style=for-the-badge&logo=VK&logoColor=white"/>
