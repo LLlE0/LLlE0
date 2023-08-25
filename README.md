@@ -4,7 +4,7 @@
     <img src="https://logojinni.com/image/logos/c--4.svg" width="50" height="50">
     <img src="https://i.pinimg.com/originals/79/09/89/7909897ceea2691e5a4942766c678ff3.png" width="50" height="50">
     <img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-1024.png" width="50" height="50">
-    <img src="https://animeshka.org/uploads/posts/2023-01/thumbs/1674914165_animeshka-org-p-gopher-pictures-pinterest-14.png" width="50" height="50">
+    <img src="https://camo.githubusercontent.com/43de102e5f92f9cb093d7d0d1b6f1396b0945c81a7b4ab507d34c2374af497cd/68747470733a2f2f676f6b72617a792e6f72672f6c6f676f2e737667" width="50" height="50">
 </div>
 <h4 align="">For now, I am the beginning fullstack developer and product manager. I have no projects at the moment, but I am thinking of doing some. Currently learning GoLang and Flutter. If you have any questions or offers, text me:</h4>
 <div align="center">
