@@ -11,7 +11,7 @@
   <a href="https://vk.com/llieo">
     <img src="https://img.shields.io/badge/VK-blueviolet?style=for-the-badge&logo=VK&logoColor=white"/>
   </a>
-  <a href="https://t.me/whachunowabout">
+  <a href="https://t.me/uwerepwned">
     <img src="https://img.shields.io/badge/Telegram-blueviolet?style=for-the-badge&logo=telegram&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
@@ -19,9 +19,6 @@
     <img src="https://komarev.com/ghpvc/?username=LLlE0&style=flat-square&color=blueviolet"/>
 </div>
 <h4></h4>
-<div  align="center">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=LLlE0&theme=dark&background=1e0528)/">
-</div>
 <h6/>
 <div  align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LLlE0&layout=compact&theme=vision-friendly-dark"/>
