@@ -13,7 +13,7 @@
     <img src="https://openwhisk.apache.org/images/icons/icon-kafka-white-trans.png" width="50" height="50"> 
     <img src="https://img.icons8.com/?size=100&id=DUsKDDZsg8FT&format=png&color=000000" width="50" height="50">
 </div>
-<h4 align="center">For now, I am the fullstack developer and DevSecOps engineer. Maintainer of the Aether - mediahosting for artists: <a href="https://aether-net.ru/">-->HERE<--</a> <br><br><br>If you have any questions or offers, text me:</h4>
+<h4 align="center">For now, I am the fullstack developer and DevSecOps engineer. Maintainer of the Aether - mediahosting for artists: <a href="https://aether-net.ru/"><br>-->HERE<--</a> <br><br><br>If you have any questions or offers, text me:</h4>
 <div align="center">
   <a href="https://vk.com/llieo">
     <img src="https://img.shields.io/badge/VK-blueviolet?style=for-the-badge&logo=VK&logoColor=white"/>
